@@ -3,9 +3,5 @@
  * 	for testing
  *
  * 	*/
-/* 
-our first git project ..!
-*/
-function init (){
-return 1;
-}
+
+function init (){return "Its Working!";}
