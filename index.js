@@ -12,6 +12,4 @@ else
 return b-a;
 }
 
-function product (a,b){
-return a*b;
-}
+function product (a,b){return a*b;}
