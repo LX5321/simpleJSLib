@@ -9,3 +9,11 @@ our first git project ..!
 function init (){
 return 1;
 }
+
+function sub (a,b){
+return a-b;
+}
+
+function product (a,b){
+return a*b;
+}
