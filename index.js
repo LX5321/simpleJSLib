@@ -5,8 +5,7 @@
  * 	*/
 
 function init (){return "Its Working!!!!";}
-function sub(int a,int b){
-c=a-b;
-return c;
+function div(int a,int b){
+return c=a/b;
 }
 //x
