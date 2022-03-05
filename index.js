@@ -4,11 +4,15 @@
  *
  * 	*/
 
-function init (){return "Its Working!";}
 
-function sub (a,b){
-    if(a>b) return a-b;
-    return b-a;
+
+function add(int a,int b){
+c = a+b;
+return c;
 }
+//abc
 
-function product (a,b){return a*b;}
+
+
+
+
