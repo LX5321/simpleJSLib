@@ -3,5 +3,4 @@
  * 	for testing
  *
  * 	*/
-
 function init (){return "Its Working!";}
